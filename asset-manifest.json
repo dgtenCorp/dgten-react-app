@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad15590f.css",
+    "main.js": "/static/js/main.846ae83d.js",
+    "static/js/787.562883f7.chunk.js": "/static/js/787.562883f7.chunk.js",
+    "static/media/BigShouldersDisplay-Black.ttf": "/static/media/BigShouldersDisplay-Black.898dd9e551026942e211.ttf",
+    "static/media/BigShouldersDisplay-ExtraBold.ttf": "/static/media/BigShouldersDisplay-ExtraBold.cfe03382978c6fb4ce2e.ttf",
+    "static/media/BigShouldersDisplay-Bold.ttf": "/static/media/BigShouldersDisplay-Bold.cf541badd713abf770e0.ttf",
+    "static/media/BigShouldersDisplay-Light.ttf": "/static/media/BigShouldersDisplay-Light.47b959cd8a7fa31bb94e.ttf",
+    "static/media/BigShouldersDisplay-SemiBold.ttf": "/static/media/BigShouldersDisplay-SemiBold.a6c9dfb5ae6e638c27a9.ttf",
+    "static/media/BigShouldersDisplay-Medium.ttf": "/static/media/BigShouldersDisplay-Medium.82581e3d9bdf82511575.ttf",
+    "static/media/BigShouldersDisplay-Regular.ttf": "/static/media/BigShouldersDisplay-Regular.3a287905ccc6189b5116.ttf",
+    "static/media/BigShouldersDisplay-Thin.ttf": "/static/media/BigShouldersDisplay-Thin.84d1adcf19df79b03b03.ttf",
+    "static/media/logo2.png": "/static/media/logo2.67d73903141aae6aec21.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.ad15590f.css.map": "/static/css/main.ad15590f.css.map",
+    "main.846ae83d.js.map": "/static/js/main.846ae83d.js.map",
+    "787.562883f7.chunk.js.map": "/static/js/787.562883f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad15590f.css",
+    "static/js/main.846ae83d.js"
+  ]
+}
